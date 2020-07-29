@@ -1,1 +1,1 @@
-zypper -n install python-base
+sudo zypper -n install python-base
