@@ -1,1 +1,1 @@
-zypper -y install python-base
+zypper -n install python-base
