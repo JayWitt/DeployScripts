@@ -1,1 +1,3 @@
-sudo zypper -n install python-base
+sudo su
+zypper -n install python-base
+exit
